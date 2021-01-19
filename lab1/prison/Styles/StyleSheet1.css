@@ -1,0 +1,35 @@
+﻿.textbox {
+    width: 296px;
+    height: 39px;
+    background-color: lightyellow;
+    font-size: 15px;
+}
+
+.div {
+    width: 310px;
+    top: 24px;
+    left: 2px;
+}
+
+.droplist {
+    font-size: medium;
+    font-family: 'Arial Narrow';
+    height: 39px;
+    width: 302px;
+    background-color: #dcff93;
+    border-color: steelblue;
+}
+
+.label {
+    font-size: medium;
+    font-family: 'Arial Narrow';
+    color: black;
+}
+
+.button {
+    color: white;
+    background-color: palevioletred;
+    height: 48px;
+    border-width: thin;
+    width: 302px;
+}
