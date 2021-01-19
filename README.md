@@ -2,4 +2,4 @@
 
 Repositiory containing all labs for CIT3027 SEM2 (20/21)
  
-* (Lab 1)[/lab1]
+* [Lab 1](/lab1)
